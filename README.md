@@ -56,6 +56,18 @@ By adopting the Star Schema, we ensured clarity, efficiency, and scalability for
   
 ![Key_trends](https://github.com/user-attachments/assets/e7ca4347-41a1-4204-8fce-dbf601fa0a4b)
 
+## Conclusion
+
+This project shows my ability to analyze data and create clear visual reports using Power BI. I have learned how to work with data and present it in a way that is easy to understand. 
+
+## Next Steps
+
+- Keep improving my data analysis skills by working with more complex datasets.
+- Learn more advanced Power BI features to create better reports.
+
+Thank you for reviewing my project!
+
+
 
 
 
